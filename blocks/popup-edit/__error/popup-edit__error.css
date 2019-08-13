@@ -1,0 +1,12 @@
+.popup-edit__error {
+  position: absolute;
+  width: 100%;
+  font-size: 12px;
+  margin-top: 5px;
+  padding-left: 6px;
+  color: red;
+}
+
+/* .popup-edit__error_visible {
+  display: block;
+} */

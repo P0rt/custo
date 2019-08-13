@@ -1,0 +1,18 @@
+.user-info__edit {
+  position: absolute;
+  cursor: pointer;
+  background-color: transparent;
+  color: #fff;
+  margin: 20px 0 0 0;
+  font-size: 12px;
+  transition: all 0.2s ease-in-out;
+}
+
+.user-info__edit:hover, .user-info__edit:active {
+  background-color: #fff;
+  color: #000;
+}
+
+.user-info__edit:focus {
+  outline-color: greenyellow;
+}
